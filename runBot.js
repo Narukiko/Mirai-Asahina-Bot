@@ -1,1 +1,0 @@
-require("./run.js").runBot("(your token here)");
